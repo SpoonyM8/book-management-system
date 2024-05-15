@@ -1,0 +1,37 @@
+.register-display {
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    padding: 5rem;
+    padding-top: 0rem;
+    align-items: center;
+    justify-content: flex-start;
+    height: 52rem;
+    border-radius: 0.5rem;
+    width: 98%;
+    background-color: rgba(211, 211, 211, 0.295);
+}
+
+.regisiter-h-2 {
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    margin-top: 20px;
+    font-family: sans-serif;
+    color: #6b5d43;
+    padding: 4px;
+}
+  
+.register-form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 25rem;
+    gap: 2rem;
+    margin-bottom: 2rem;
+}
+
+.register-form .MuiInputBase-input {
+    background: white
+}

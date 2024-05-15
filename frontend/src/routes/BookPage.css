@@ -1,0 +1,25 @@
+.comment-container {
+    background-color: #D3D3D3;
+    height: 200px;
+    padding: 15px;
+}
+
+.save-button{
+    margin-top: 10px !important;
+    margin-left: 40px !important;
+    border-radius: 50px !important;
+    position: fixed;
+}
+
+.add-rating-container {
+    display: flex;
+    margin-top: 10px;
+}
+
+.margin-left-8 {
+    margin-left: 8px;
+}
+
+.label-wrapper {
+    display: flex;
+}
