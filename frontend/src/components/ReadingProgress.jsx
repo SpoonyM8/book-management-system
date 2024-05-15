@@ -10,7 +10,7 @@ const ReadingProgress = () => {
             alignItems="stretch"
             margin={1}
         >
-            <Typography variant="h4" fontWeight={700} color={'#102C45'} fontFamily={'Roboto'}>Welcome to ReadPact!</Typography>
+            <Typography variant="h4" fontWeight={700} color={'#102C45'} fontFamily={'Roboto'}>Welcome to BMS!</Typography>
         </Grid>
     </>
   )

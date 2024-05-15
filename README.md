@@ -16,6 +16,5 @@ This will run a local development server on port 5000.
 From the frontend directory:
 `npm install`
 
-Now that everything is installed to start the application, the following command can be ran to start it. This must still be ran from the current directory of ‘readpact’:
-
+This will start the frontend on port 3000.
 `npm start`
